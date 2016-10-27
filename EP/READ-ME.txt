@@ -1,0 +1,5 @@
+Você deve alterar os arquivos nessa ordem:
+	-algoritmoGenetico
+	-main
+
+Na pasta inds, ficarão armazenados os individuos treinados
